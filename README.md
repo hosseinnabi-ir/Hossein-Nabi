@@ -15,5 +15,5 @@ Hello and welcome to my GitHub page 😊<br>My name is Hossein, a freelance Fron
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<br>
+
 [![](https://visitcount.itsvg.in/api?id=hosseinnabi-ir&icon=5&color=10)](https://visitcount.itsvg.in)
