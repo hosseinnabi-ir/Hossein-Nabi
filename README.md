@@ -11,9 +11,4 @@ Hello and welcome to my GitHub page 😊<br>My name is Hossein, a freelance Fron
 ## GitHub Codes
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinnabi-ir&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## Daily Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=hosseinnabi-ir&icon=5&color=10)](https://visitcount.itsvg.in)
