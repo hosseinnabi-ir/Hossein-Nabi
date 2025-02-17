@@ -1,4 +1,4 @@
-![CODE WITH HOSSEIN](./banner.png)
+![CODE WITH HOSSEIN](./banner_rounded.png)
 
 ## Who am I
 Hello and welcome to my GitHub page 😊<br>My name is Hossein, a freelance Front-End developer.<br><br>To make it interesting, I will share a variety of different projects which are aimed at improving your HTML, CSS & JavaScript skills. In particular, you will learn:<br>1. Clean Code Rules<br>2. Modern Design Patterns<br>3. Efficient Programming Projects<br><br>Make sure to Subscribe to my YouTube channel 😎
